@@ -1,0 +1,105 @@
+{
+ "sections": [
+  {
+   "id": "b9d4f92c-acec-5ef5-cb61-70e10f8687a6",
+   "title": "The \"Best\" Algorithm",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The--Best--Algorithm-b9d4.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ee2a53c9-4063-9f10-aef0-8cd1ee007c3d",
+   "title": "Multiple Solutions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Multiple-Solutions-ee2a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2a97bfd1-50c7-711a-2fe1-1f222b2e08cf",
+   "title": "Multiple Solutions - continued",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Multiple-Solutions---continued-2a97.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d2c75344-2578-5664-f9ad-7d33d4128976",
+   "title": "What is Best?",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-Best--d2c7.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e0452e27-e0ce-3b02-19e6-ae1552b08c47",
+   "title": "Comparing 2 Algorithms",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comparing-2-Algorithms-e045.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "431124b4-625a-e266-fca3-1a74d04bd1e1",
+   "title": "Real World Algorithms",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Real-World-Algorithms-4311.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "46efb25a-4039-b68a-41e5-65cdaeee03ae",
+   "title": "Preparation for Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Preparation-for-Challenge-46ef.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b649faf4-58e5-ebe0-fc35-3b3a4dfbd90d",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-b649.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
+}
